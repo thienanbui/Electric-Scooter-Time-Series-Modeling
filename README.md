@@ -7,7 +7,7 @@ The work documented in this repository was submitted as a Capstone Project in pa
 ## Team Members
 - Anargha Ajoykumar
 - [Thien-An Bui](https://www.linkedin.com/in/thien-an-bui/)
-- Cathy Ouyang
+- [Cathy Ouyang](https://www.linkedin.com/in/cathy-ouyang/)
 - Hussein Abou Nassif Mourad
 
 
