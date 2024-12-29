@@ -5,7 +5,7 @@
 The work documented in this repository was submitted as a Capstone Project in partial fulfillment of the requirements for the Master of Science in Analytics at the University of Chicago. The project focuses on leveraging time series modeling to optimize resource allocation, reduce costs, and facilitate revenue growth for e-scooter companies in Chicago through forecasting e-scooter availability.
 
 ## Team Members
-- Anargha Ajoykumar
+- [Anargha Ajoykumar](https://www.linkedin.com/in/anargha-ajoy/)
 - [Thien-An Bui](https://www.linkedin.com/in/thien-an-bui/)
 - [Cathy Ouyang](https://www.linkedin.com/in/cathy-ouyang/)
 - Hussein Abou Nassif Mourad
